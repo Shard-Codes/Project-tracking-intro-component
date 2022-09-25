@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution](https://your-solution-url.com)
-- Live Site URL: [Live website link](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/project-tracking-intro-component-solution-0qZMY1iUCJ)
+- Live Site URL: [Live website link](https://project-tracking-new.netlify.app/)
 
 ## My process
 
